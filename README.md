@@ -33,9 +33,10 @@ It is a **Command-Line Interface (CLI)** application that allows users to manage
 2. Compile the main file:  
    ```bash
    javac LibraryManagementSystem.java
-🧑‍💻 Author
+ 
+---
 
-Vijan Arora
-📧 vijanarora125@gmail.com
-
-🔗 www.linkedin.com/in/vijan-arora-
+## 🧑‍💻 Author
+**Vijan Arora**  
+📧 [vijanarora125@gmail.com](mailto:vijanarora125@gmail.com)  
+🔗 [www.linkedin.com/in/vijan-arora-](https://www.linkedin.com/in/vijan-arora-)
